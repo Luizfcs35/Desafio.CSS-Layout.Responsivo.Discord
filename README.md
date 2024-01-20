@@ -55,5 +55,8 @@ Este é um projeto que foi desenvolvido seguindo os principios de responsividade
 
 >[Link da pagina:]()
 
-![mobile First]()
-![ome Desktop]()
+<p align="center">
+  <img src="assets/images/firstMobile.PNG" width="300" style="vertical-align: middle;" />
+  <img src="assets/images/desktop.PNG" width="300" style="vertical-align: middle;"/>
+</p>
+
