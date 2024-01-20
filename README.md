@@ -53,7 +53,7 @@ Este é um projeto que foi desenvolvido seguindo os principios de responsividade
 
 ### Projeto Concluído
 
->[Link da pagina:]()
+>[Clique Aqui e confira!](https://luizfcs35.github.io/Desafio.CSS-Layout.Responsivo.Discord/)
 
 <p align="center">
   <img src="assets/images/firstMobile.PNG" width="300" style="vertical-align: middle;" />
